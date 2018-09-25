@@ -1,0 +1,2 @@
+# JHipster 安装
+
